@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-07T19:53:51 IST" name="Default suite" finished-at="2026-02-07T19:53:51 IST" duration-ms="46">
+  <suite started-at="2026-02-07T19:55:58 IST" name="Default suite" finished-at="2026-02-07T19:55:58 IST" duration-ms="49">
     <groups>
     </groups>
-    <test started-at="2026-02-07T19:53:51 IST" name="Default test" finished-at="2026-02-07T19:53:51 IST" duration-ms="46">
+    <test started-at="2026-02-07T19:55:58 IST" name="Default test" finished-at="2026-02-07T19:55:58 IST" duration-ms="49">
       <class name="com.test.java.duplicate">
-        <test-method signature="printDuplicateElements()[pri:0, instance:com.test.java.duplicate@710c2b53]" started-at="2026-02-07T19:53:51 IST" name="printDuplicateElements" finished-at="2026-02-07T19:53:51 IST" duration-ms="16" status="PASS">
+        <test-method signature="printDuplicateElements()[pri:0, instance:com.test.java.duplicate@48bb62]" started-at="2026-02-07T19:55:58 IST" name="printDuplicateElements" finished-at="2026-02-07T19:55:58 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printDuplicateElements -->
