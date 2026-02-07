@@ -1,11 +1,11 @@
 package com.test.java;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 
 public class duplicate {
 
     @Test
-    void printDuplicateElements() {
+    public void printDuplicateElements() {
 
         int[] arr = {1, 1, 2, 2, 5, 7, 7};
 
